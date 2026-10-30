@@ -1,1 +1,1 @@
-print hello Kampala
+From Flask import Flask, app equals Flask name, app route slash def home return Kampala Market Price Intelligence AI is running, if name equals main, app run host 0.0.0.0 port 10000
